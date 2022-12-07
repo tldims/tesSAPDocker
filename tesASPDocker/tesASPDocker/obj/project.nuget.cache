@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNivyxldR3BMj/hb8T5AcO1JG9dYr0E6c7QJy5Q3Bl4AfiLIs7IXFHhrClJ1NC8VYKIuKVXUzJpCT1m43rHliQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\dimas.sp\\source\\repos\\tesASPDocker\\tesASPDocker\\tesASPDocker.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\dimas.sp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

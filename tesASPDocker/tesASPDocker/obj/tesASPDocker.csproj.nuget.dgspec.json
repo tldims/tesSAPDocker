@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\dimas.sp\\source\\repos\\tesASPDocker\\tesASPDocker\\tesASPDocker.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\dimas.sp\\source\\repos\\tesASPDocker\\tesASPDocker\\tesASPDocker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\dimas.sp\\source\\repos\\tesASPDocker\\tesASPDocker\\tesASPDocker.csproj",
+        "projectName": "tesASPDocker",
+        "projectPath": "D:\\Users\\dimas.sp\\source\\repos\\tesASPDocker\\tesASPDocker\\tesASPDocker.csproj",
+        "packagesPath": "D:\\Users\\dimas.sp\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\dimas.sp\\source\\repos\\tesASPDocker\\tesASPDocker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\dimas.sp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nexus.astra-honda.com/repository/ahmbe/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
